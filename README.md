@@ -2,6 +2,9 @@
 ## Contributors
 <ol>
 <li>Samarth Ahuja</li>
+<li>Aashish Kalra</li>
+<li>Yash Mehta</li>
+<li>Ankit Rao</li>
 </ol>
 
 ## Installation
